@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CiceroBittar
-- 👀 I’m interested in Coding for the company that I work.
+- 👀 I’m interested in research for Coding for the company that I work and help others to find solutions.
 - 🌱 I’m currently learning PHP, MySQL, React and coding softwares.
 - 💞️ I’m looking to collaborate on a project to migrate databases from Google Workspace to MySql and develop PHP intranet. 
 - 📫 How to reach me: www.oseuinformatico.pt
